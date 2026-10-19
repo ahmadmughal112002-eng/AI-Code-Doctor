@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment configuration
+.env
+.env.*
+
+# Google ADK local files
+.adk/
+
+# Testing and logs
+.pytest_cache/
+*.log
